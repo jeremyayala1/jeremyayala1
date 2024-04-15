@@ -10,7 +10,7 @@
   - [Coursera: Wireshark for Basic Network Security Analysis](https://coursera.org/share/7bded545d0833afe56459d28259db6f9)
   - [Coursera: Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/41f2ae75d8f9eedc7a810548e81ae231)
   - [FEMA ICS-100: Introduction to Incident Command System](https://github.com/jeremyayala1/Certificates/blob/main/FEMA-ICS100.pdf)
-  - [Qualys: VMDR](https://github.com/jeremyayala1/Certificates/blob/main/qualysvmdr.pdf)
+  - [Qualys: Vulnerability Management Detection & Response](https://github.com/jeremyayala1/Certificates/blob/main/qualysvmdr.pdf)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
