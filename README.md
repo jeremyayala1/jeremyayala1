@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/jeremyayala1/ActiveDirectoryLab)
+  - [SIEM Azure Sentinel Lab](https://github.com/jeremyayala1/SIEM-AzureSentinelLab)
 
 <h2>:page_with_curl: Certifications:</h2>
 
