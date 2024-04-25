@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM Azure Sentinel Lab](https://github.com/jeremyayala1/SIEM-AzureSentinelLab)
+  - [SIEM - Azure Sentinel Lab](https://github.com/jeremyayala1/SIEM-AzureSentinelLab)
+  - [Vulnerability Management - Tenable Nessus Essentials Lab](https://github.com/jeremyayala1/VulnerabilityManagement-Nessus)
 
 <h2>:page_with_curl: Certifications:</h2>
 
