@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [CI/CD Pipeline for Automated Security and Syntax Checks with Version Control](https://github.com/jeremyayala1/mygitactions)
   - [SIEM - Azure Sentinel Lab](https://github.com/jeremyayala1/SIEM-AzureSentinelLab)
   - [Vulnerability Management - Tenable Nessus Essentials Lab](https://github.com/jeremyayala1/VulnerabilityManagement-Nessus)
 
